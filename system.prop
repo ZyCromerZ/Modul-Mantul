@@ -1,0 +1,7 @@
+# disabled
+
+# other tweak
+debug.egl.swapinterval=1
+sys.use_fifo_ui=1
+
+setprop sys.display-size 3840x2160
